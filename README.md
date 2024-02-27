@@ -5,9 +5,7 @@ Optimized version of 'Coding With Russ' code (on youtube)
 
 Done for my first python exam
 
-Go to the second Brawler file for main and class Fighter
-
-Go to the first Brawler file for assets
+Go to the second Brawler file for main and class Fighter adn the first Brawler file for assets
 
 https://github.com/russs123/brawler_tut
 
